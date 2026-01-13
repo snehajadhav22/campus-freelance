@@ -20,3 +20,8 @@ Features are being planned and built step by step.
 - College students looking for micro-internships
 - Campus clubs, startups, and individuals needing short-term help
 
+## Project Roadmap
+- Phase 1: Basic UI and layout setup
+- Phase 2: Student and client dashboards
+- Phase 3: Simple stats and improvements
+- Phase 4: Testing and refinement
